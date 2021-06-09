@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">site</string>
+    <string name="url">http://localhost:44334/anasayfam.aspx</string>
+    <string name="yükleniyor">yükleniyor...</string>
+</resources>
